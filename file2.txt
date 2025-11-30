@@ -1,0 +1,8 @@
+Concert Night;Live music by famous bands;2025,6,15,19,30;202;https://feverup.com/ro/cluj-napoca/candlelight
+Tech Conference;Latest trends in AI and ML;2025,9,10,10,0;500;https://www.devtalks.ro/
+Art Exhibition;Modern art showcase;2025,4,25,16,0;102;https://www.artsy.net/partner/whitney-museum-of-american-art-1
+Book Fair;Meet your favorite authors;2025,5,20,14,0;301;https://example.com/bookfair
+Gaming Tournament;Compete in sports;2025,8,15,18,0;150;https://www.esportsworldcup.com/en/competition/games-and-tournaments
+Marathon;Annual city run;2025,10,4,6,30;5000;https://maraton-cluj.ro
+Science Fair;Explore exciting experiments;2025,3,28,11,0;402;https://www.societyforscience.org/isef/
+Film Screening;Exclusive movie premiere;2025,4,5,20,0;252;https://www.intofilm.org/events
